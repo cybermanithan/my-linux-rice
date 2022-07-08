@@ -2,13 +2,6 @@
 
 this is my first linux rice 
 
-
-
-
-
-
-
-
 requirments:
 1.rofi 
 2.pfetch 
