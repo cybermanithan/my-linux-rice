@@ -1,5 +1,8 @@
 
-![alt text](https://github.com/cybermanithan/my-linux-rice/s.png)
+![s](https://user-images.githubusercontent.com/70383680/178015954-f33125b2-60bc-4a1c-8e0d-86911d5ecd8e.png)
+
+
+
 𝒕𝒉𝒊𝒔 𝒊𝒔 𝒎𝒚 𝒇𝒊𝒓𝒔𝒕 𝒍𝒊𝒏𝒖𝒙 𝒓𝒊𝒄𝒆
 
 𝒓𝒆𝒒𝒖𝒊𝒓𝒎𝒆𝒏𝒕𝒔: 
